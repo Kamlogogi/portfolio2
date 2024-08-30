@@ -28,7 +28,7 @@ const siteProps = {
   title: "Lecturer and Reseacher in Power Systems and Electric Machines",
   email: "kolawal@atbu.edu.ng",
   gitHub: "Kamlogogi",
-  instagram: "microsoft",
+  instagram: "kamlogogi",
   linkedIn: "kamilu-o-lawal-r-engr-phd-2b420b45",
   medium: "",
   twitter: "",
