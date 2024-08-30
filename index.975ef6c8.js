@@ -27114,7 +27114,7 @@ var _stylesCss = require("./styles.css");
     title: "Lecturer and Reseacher in Power Systems and Electric Machines",
     email: "kolawal@atbu.edu.ng",
     gitHub: "Kamlogogi",
-    instagram: "microsoft",
+    instagram: "kamlogogi",
     linkedIn: "kamilu-o-lawal-r-engr-phd-2b420b45",
     medium: "",
     twitter: "",
@@ -27205,7 +27205,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I am an accomplished Engineer, Lecturer, Trainer, and Researcher in the academic industry with over 10 years of experience in the Engineering and Education sectors. My expertise lies in Renewable Energy, Energy Efficiency, Off-grid Energy Systems Design, and Rural/Remote Electrification. Passionate about making a positive impact through sustainable energy solutions, I have a proven track record of delivering successful projects and driving innovation in the field.";
+ */ const description = "I am a curious learner, a lateral thinker, a firm believer in excellence and innovation but more importantly, a giver who takes pride in creating a better future. I practice as an accomplished Engineer, a dedicated Lecturer, a certified trainer and as a Researcher in the academic industry with more than a decade of grounded experience in the Engineering and Education sectors. My commitment to a better future is the bedrock for building expertise in the Renewable Energy, Energy Efficiency, Off-grid energy systems design and Rural/ remote Electrification. My passion for excellence has led to positive impact through sustainable energy solutions, evident in the delivery of successful projects and innovations in the field. ";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28646,8 +28646,8 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _kamiluIbnLawalJpg = require("../images/KamiluIbnLawal.jpg");
-var _kamiluIbnLawalJpgDefault = parcelHelpers.interopDefault(_kamiluIbnLawalJpg);
+ */ var _kolawwalJpg = require("../images/kolawwal.jpg");
+var _kolawwalJpgDefault = parcelHelpers.interopDefault(_kolawwalJpg);
 const imageAltText = "Dr K O Lawal";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -28656,7 +28656,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _kamiluIbnLawalJpgDefault.default),
+                src: (0, _kolawwalJpgDefault.default),
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -28739,11 +28739,11 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/KamiluIbnLawal.jpg":"jOlqc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/kolawwal.jpg":"7ABKC"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"jOlqc":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "KamiluIbnLawal.971b971b.jpg" + "?" + Date.now();
+},{"./helpers/bundle-url":"lgJ39"}],"7ABKC":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "kolawwal.8c0f654b.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lCaEt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ed0d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
