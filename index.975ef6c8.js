@@ -27205,7 +27205,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I am a curious learner, a lateral thinker, a firm believer in excellence and innovation but more importantly, a giver who takes pride in creating a better future. I practice as an accomplished Engineer, a dedicated Lecturer, a certified trainer and as a Researcher in the academic industry with more than a decade of grounded experience in the Engineering and Education sectors. My commitment to a better future is the bedrock for building expertise in the Renewable Energy, Energy Efficiency, Off-grid energy systems design and Rural/ remote Electrification. My passion for excellence has led to positive impact through sustainable energy solutions, evident in the delivery of successful projects and innovations in the field. ";
+ */ const description = "I am a curious learner, a lateral thinker, a firm believer in excellence and innovation but more importantly, a giver who takes pride in creating a better future. I practice as an accomplished Engineer, a dedicated Lecturer, a certified trainer and as a Researcher in the academic industry with more than a decade of grounded experience in the Engineering and Education sectors. My commitment to a better future is the bedrock for building expertise in the Renewable Energy, Energy Efficiency, Off-grid energy systems design and Rural/remote Electrification. My passion for excellence has led to positive impact through sustainable energy solutions, evident in the delivery of successful projects and innovations in the field. ";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28739,7 +28739,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/kolawwal.jpg":"7ABKC"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/kolawwal.jpg":"7ABKC","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"7ABKC":[function(require,module,exports) {
