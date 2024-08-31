@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a curious learner, a lateral thinker, a firm believer in excellence and innovation but more importantly, a giver who takes pride in creating a better future. I practice as an accomplished Engineer, a dedicated Lecturer, a certified trainer and as a Researcher in the academic industry with more than a decade of grounded experience in the Engineering and Education sectors. My commitment to a better future is the bedrock for building expertise in the Renewable Energy, Energy Efficiency, Off-grid energy systems design and Rural/remote Electrification. My passion for excellence has led to positive impact through sustainable energy solutions, evident in the delivery of successful projects and innovations in the field. ";
+  "I am a curious learner, a lateral thinker, a firm believer in excellence and innovation but more importantly, a giver who takes pride in creating a better future. I practice as an accomplished Engineer, a dedicated Lecturer, a certified trainer and as a Researcher in the academic industry with more than a decade of grounded experience in the Engineering and Education sectors. My commitment to a better future is the bedrock for building expertise in the Renewable Energy, Energy Efficiency, Off-grid energy systems design and Rural/Remote Electrification. My passion for excellence has led to positive impact through sustainable energy solutions, evident in the delivery of successful projects and innovations in the field. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
